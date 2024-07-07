@@ -1,6 +1,6 @@
 ---
 
-# Object Detection using YOLO
+# Object Detection using YOLOv3(you only look once)
 
 This project implements object detection using YOLOv3 (You Only Look Once, version 3), a state-of-the-art real-time object detection algorithm. YOLOv3 is known for its speed and accuracy in object detection tasks.
 
